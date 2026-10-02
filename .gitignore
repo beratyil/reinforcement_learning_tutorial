@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Programların her çalıştırmada yeniden ürettiği dosyalar
+ogrenme_egrisi.png
